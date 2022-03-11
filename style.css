@@ -14,3 +14,7 @@ span {
     display: flex;
   }
 }
+
+.blue {
+  color: blue;
+}
