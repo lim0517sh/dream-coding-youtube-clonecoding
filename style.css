@@ -1,6 +1,7 @@
 @import "reset.css";
 @import "css/header.css";
-
+@import "css/video-info.css";
 span {
   font-family: "Hahmlet", serif;
+  font-family: "Roboto Serif", serif;
 }

@@ -1,0 +1,42 @@
+.video-info {
+  padding: 7px;
+}
+
+.video-info__tags {
+  color: blue;
+  font-size: small;
+  margin-bottom: 10px;
+}
+
+.video-info__numbers {
+  color: gray;
+  font-size: x-small;
+  margin: 10px 0;
+}
+
+.video-info__icons {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+}
+
+.video-info__icons div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-info__icons i {
+  padding: 7px 0;
+  font-size: 30px;
+}
+
+.video-info__icons button {
+  border: 0;
+  background-color: white;
+  color: gray;
+}
+
+.video-info__icons span {
+  font-size: 10px;
+}
