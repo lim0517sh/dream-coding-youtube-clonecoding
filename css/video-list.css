@@ -1,0 +1,33 @@
+.video-list {
+  margin: 10px 7px;
+}
+
+.video-list span:first-child {
+  display: flex;
+  padding: 10px 0;
+}
+
+.video-list__section {
+  display: flex;
+}
+
+.video-list__subnail img {
+  width: 200px;
+  height: 130px;
+}
+
+.video-list__info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+}
+
+.video-list__info span:nth-child(2) {
+  font-size: 14px;
+  color: gray;
+}
+
+.video-list__info span:last-child {
+  font-size: 12px;
+  color: gray;
+}
