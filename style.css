@@ -8,3 +8,9 @@ span {
   font-family: "Hahmlet", serif;
   font-family: "Roboto Serif", serif;
 }
+
+@media screen and (min-width: 1000px) {
+  #section {
+    display: flex;
+  }
+}
